@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\lou-vui-date-code\LouVuiDateCode\bin\Debug\netcoreapp3.1\LouVuiDateCode.deps.json
+C:\Users\HP\source\repos\lou-vui-date-code\LouVuiDateCode\bin\Debug\netcoreapp3.1\LouVuiDateCode.dll
+C:\Users\HP\source\repos\lou-vui-date-code\LouVuiDateCode\bin\Debug\netcoreapp3.1\LouVuiDateCode.pdb
+C:\Users\HP\source\repos\lou-vui-date-code\LouVuiDateCode\obj\Debug\netcoreapp3.1\LouVuiDateCode.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\lou-vui-date-code\LouVuiDateCode\obj\Debug\netcoreapp3.1\LouVuiDateCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\lou-vui-date-code\LouVuiDateCode\obj\Debug\netcoreapp3.1\LouVuiDateCode.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\lou-vui-date-code\LouVuiDateCode\obj\Debug\netcoreapp3.1\LouVuiDateCode.AssemblyInfo.cs
+C:\Users\HP\source\repos\lou-vui-date-code\LouVuiDateCode\obj\Debug\netcoreapp3.1\LouVuiDateCode.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\lou-vui-date-code\LouVuiDateCode\obj\Debug\netcoreapp3.1\LouVuiDateCode.dll
+C:\Users\HP\source\repos\lou-vui-date-code\LouVuiDateCode\obj\Debug\netcoreapp3.1\LouVuiDateCode.pdb
